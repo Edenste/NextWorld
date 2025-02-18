@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        neetbase: "#202225",
+        neetheader: "#2f3136",
+        neetbuttonhover: "#202225",
+        neetsignin: "#2372b3",
+        neetsigninhover: "#3488ce",
       },
     },
   },
